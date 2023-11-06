@@ -9,7 +9,7 @@
 
 ## About Me
 
-I'm a beginner front-end developer. I have always loved making things with my own hands and development turned out to be my thing.
+I'm a beginner front-end developer. I have always loved making things with my own hands and development turned out to be my thing. I always take things seriously and see them through to the end.
 
 ## Skills
 
@@ -29,9 +29,12 @@ const writeHistory = () => {
     listOfHistory.append(message);
 }
 
-## Experience
+## Work Experience
 
 Successful completion RS School stage 0. Five years of experience as a content manager in a non-profit organization.
+
+Tic-tac-toe: https://rolling-scopes-school.github.io/maksim99745-JSFEPRESCHOOL2023Q2/tic-tac-toe/
+Photos search servis: https://rolling-scopes-school.github.io/maksim99745-JSFEPRESCHOOL2023Q2/image-galery/
 
 ## Education
 
@@ -43,4 +46,4 @@ Successful completion RS School stage 0. Five years of experience as a content m
 
 ## English
 
-C1 acording to EF English test.
+C1 according to EF English test
