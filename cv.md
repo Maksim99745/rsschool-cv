@@ -41,7 +41,7 @@ My works:
 
 - University: Kazan Federal University, Teacher of history and social science.
 - Courses:
-    + RS School stage 0
+    + RS School stage-0
     + Egean University, Turkish up to C1
     + Hexlet: JS basic, Arrays, Objects, Functions, DOM API, Asynchronous programming
 
