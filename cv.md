@@ -33,8 +33,9 @@ const writeHistory = () => {
 
 Successful completion RS School stage 0. Five years of experience as a content manager in a non-profit organization.
 
-Tic-tac-toe: https://rolling-scopes-school.github.io/maksim99745-JSFEPRESCHOOL2023Q2/tic-tac-toe/
-Photos search servis: https://rolling-scopes-school.github.io/maksim99745-JSFEPRESCHOOL2023Q2/image-galery/
+My works:
+- [Tic-tac-toe](https://rolling-scopes-school.github.io/maksim99745-JSFEPRESCHOOL2023Q2/tic-tac-toe/)
+- [Photos search servis](https://rolling-scopes-school.github.io/maksim99745-JSFEPRESCHOOL2023Q2/image-galery/)
 
 ## Education
 
@@ -46,4 +47,4 @@ Photos search servis: https://rolling-scopes-school.github.io/maksim99745-JSFEPR
 
 ## English
 
-C1 according to EF English test
+C1 according to EF English test.
